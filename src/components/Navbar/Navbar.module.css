@@ -1,0 +1,17 @@
+.logo {
+    width: 3rem;
+        margin: 0 20px;
+        padding-top: 3px;
+        cursor: pointer;
+       
+  }
+  
+
+  .bgNav {
+    background-color: rgb(219, 197, 197);
+  }
+  
+  .pointer  {
+    cursor: pointer;
+  }
+ 
